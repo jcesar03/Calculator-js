@@ -21,4 +21,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Calculadora desenvolvida no modulo de DOM do curso FullStack Javascript da onebitcode.
-link para visualização do projeto: 
+link para visualização do projeto: https://jcesar03.github.io/Calculator-js/
